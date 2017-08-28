@@ -1,0 +1,3 @@
+.vagrant/*
+singularity/*
+dataDisk*.vdi
